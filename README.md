@@ -1,2 +1,2 @@
-# win7-game-launcher-for-win-10-11
+# win7 GamesExplorer remake
 Лаунчер из седьмой винды переписанный под современные игры
